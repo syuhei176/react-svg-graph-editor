@@ -3,7 +3,7 @@ README.md
 
 react-svg-graph-editor
 
-DEMO: https://syuhei176.github.io/llvl
+DEMO: https://syuhei176.github.io/react-svg-graph-editor
 
 Sample Project: https://github.com/syuhei176/llvl
 
