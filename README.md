@@ -19,5 +19,5 @@ npm i --save react-svg-graph-editor
 
 # How To Use
 
-Please see examples: https://github.com/syuhei176/react-svg-graph-editor/src/sample.js
+Please see examples: https://github.com/syuhei176/react-svg-graph-editor/blob/master/src/sample.js
 
