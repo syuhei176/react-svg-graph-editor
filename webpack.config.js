@@ -3,13 +3,11 @@ const path = require('path');
 
 module.exports = {
     entry: {
-        web: './src/index.js'
+        web: './src/sample.js'
     },
     output: {
         path: path.join(__dirname, 'dist'),
-        filename: 'react-svg-graph-editor.js',
-        library: 'Rectangle',
-        libraryTarget: 'umd'
+        filename: 'sample.js'
     },
     module: {
         loaders: [
